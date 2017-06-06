@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: "Au Pas !"
+site_url: "https://au-pas.github.io/"
+
+theme: null
+theme_dir: custom_theme
+
+site_dir: "../au-pas.github.io"
+
+markdown_extensions:
+    - sane_lists
+    - smarty
+    - toc:
+        permalink: true
