@@ -9,7 +9,7 @@
     line-height: 3em;
 }
 
-.title:hover {
+.title:hover, .title:active, .title:focus {
     color: #999;
 }
 
@@ -26,7 +26,7 @@ a {
     transition: all .45s;
 }
 
-a:hover {
+a:hover, a:active, a:focus {
     transition: all .45s;
     text-decoration: none;
 }
