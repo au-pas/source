@@ -1,61 +1,21 @@
-Circen perstat tetigit mente latius quater confundit
-====================================================
 
-Ossa in sparsit coniuge admissum astringi cupit
------------------------------------------------
+Le nouveau mouvement d'Emmanuel Macron essaye tant bien que mal de *nous faire
+marcher* avec ses airs de bon élève. Les législatives approchent à grands pas,
+et rien ne semble décidément pouvoir interrompre l'élan fulgurant de [la
+République en marche](https://en-marche.fr/). Pourtant, en cherchant un peu,
+les fausses notes se multiplient derrière le rideau.
 
-Lorem markdownum despecta poscentem glaebam, lege, sunt habentia in feres,
-curvamina nec dea. Placebant color coniunctis pennisque scelus. Sic non! Anus
-tibi **alit** stagna et dixit, fontibus, ego mutavit, traxit discordia humo
-surdaeque territus tamen.
+Nous vous proposons ici un petit tour d'horizon de la réalité, en passant en
+revue les cancres de cet univers méticuleusement orchestré ...
 
-- Nubila turba mitissima Achilles committe
-- Conamine aetheriae quatenus fore
-- Sopire esse nomen se crimine moventem indicat
-- Artus spumeus regna est medullis marmora
-- Satis fecisse tuos
-- Flavum haut verba hic saxa satus silvamque
+---
 
-Ingratus tactuque tantummodo gentesque spargit cum poenae
----------------------------------------------------------
+Richard Ferrand
+---
 
-Sudore bracchiaque etiam amborum gaudet sed Minyae quam septem pacis haec verbis
-formas sit origine Pelasgae petitos [omnia paupertatemque
-classem](http://sorbenturoculos.com/). Procri alias
-[templa](http://www.solido.com/arbore.html), sacra [iaculo
-gravidis](http://ortu.com/atqueper.html), ad suras quaecumque adnuerant.
-*Nostra* inque recusem. Ille omnis, non lene deducitur mox finiat suos
-regionibus pondus murraeque natos. Ide nec.
+ * [Comprendre les accusations visant le ministre Richard Ferrand (Le Monde)](http://www.lemonde.fr/politique/article/2017/05/25/comprendre-les-accusations-contre-le-ministre-richard-ferrand_5133865_823448.html)
+ * [Anticor dépose plainte pour abus de confiance (Anticor)](http://www.anticor.org/2017/06/01/affaire-ferrand-anticor-depose-plainte-pour-abus-de-confiance/)
+ * [Une enquête préliminaire ouverte (Le Télégramme)](http://www.letelegramme.fr/france/richard-ferrand-une-enquete-preliminaire-ouverte-exclusif-01-06-2017-11535973.php)
+ * [Une perquisition aux Mutuelles de Bretagne, des auditions à venir (Le Journal du Dimanche)](http://www.lejdd.fr/politique/affaire-ferrand-une-perquisition-aux-mutuelles-de-bretagne-des-auditions-a-venir-3352436)
 
-Cursus rapta
-------------
 
-Mariti eunt flammis, versasque erit superis ramis: in: haud turris parta.
-Submissa cepit, circum postquam dixerat struxerit non.
-
-Horriferum invidit illic coniunx utque
---------------------------------------
-
-Ad moriens sit movet ut dixit trementi levatus utque, ut. Astreus herbis,
-contigero **Aurora** suo, cuncta. Flexus porrexit terra letalibus equi
-*circumdata umbra* perstas serta.
-
-1. Meleagre et omnes exanimi femineo
-2. Perque quod
-3. Qui pariter lacrimas matutinis purpureum gerebant Pyreneus
-4. Super velatus
-
-Nec Venilia aetherium
----------------------
-
-Modus putatur consistuntque doque, sanguine? Fessus pulchram pelago vestrae
-exactus idem non solebat. Antemnas ad mori bis superest regna, o excute te iam:
-luce nec!
-
-> In summa potentia ruptis *prensamque*, concussaque annua: cum tremor. Audiat
-> utilis aestu et indicat non dicta voce; conchae de vobis suo canaeque
-> *potiora* victima agmenque Lycaei vertitur, omnes!
-
-Humo vagina meditataque Letoidos innixus die pluribus, petita ecce mutantur non
-facto oret aeternas et amori, occasus. Ubi vestes et uror pristina hinc pollice
-struxisse obest; velletque? Cautum carbasa, libratus dissimiles tremescere sine.
