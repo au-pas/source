@@ -1,11 +1,14 @@
 @import url("/css/gillsans.css");
 
-.title {
+.em {
     font-family: Gillsans;
-    font-size: 72px;
     font-weight: bold;
     font-style: italic;
     color: black;
+}
+
+.title {
+    font-size: 72px;
     line-height: 3em;
 }
 
