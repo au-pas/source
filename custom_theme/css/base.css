@@ -6,6 +6,7 @@
     font-weight: bold;
     font-style: italic;
     color: black;
+    line-height: 3em;
 }
 
 .title:hover {
